@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uthindis.github.io/sitemap.html.gz
+Sitemap: https://uthindis.github.io/app/sitemap.html.gz
+Sitemap: https://uthindis.github.io/assets/sitemap.html.gz
+Sitemap: https://uthindis.github.io/css/sitemap.html.gz
+Sitemap: https://uthindis.github.io/includes/sitemap.html.gz
+Sitemap: https://uthindis.github.io/item/sitemap.html.gz
+Sitemap: https://uthindis.github.io/src/sitemap.html.gz
